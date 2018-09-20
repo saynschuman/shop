@@ -1,0 +1,1 @@
+{"version":3,"file":"static/webpack/static/development/pages/_app.js.560d04d91d0d4759b19b.hot-update.js","sources":["webpack:///./constants.js"],"sourcesContent":["export const INCREMENT = 'INCREMENT'\nexport const DECREMENT = 'DECREMENT'"],"mappings":";;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AACA;;;;A","sourceRoot":""}
